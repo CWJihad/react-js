@@ -1,0 +1,16 @@
+.btn {
+    width: fit-content;
+    background: #777;
+    color: #333;
+    font-weight: bold;
+    padding: 10px 25px;
+    display: flex;
+    margin: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.parent {
+    display: flex;
+    justify-content: center;
+}
